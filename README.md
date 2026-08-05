@@ -62,5 +62,3 @@ An end-to-end healthcare analytics project analyzing global COVID-19 clinical tr
 - 📊 Dashboard Design (Power BI)
 - 🏥 Healthcare Analytics & Business Insight Generation
 
-## 🔗 Repository
-*[Add GitHub repo link here]*
